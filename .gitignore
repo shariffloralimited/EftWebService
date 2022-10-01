@@ -1,0 +1,7 @@
+.vs
+bin
+obj
+*.log
+FloraEFTWebService.csproj.user
+EFTWebServiceLog
+EFTWebService.v12.suo
